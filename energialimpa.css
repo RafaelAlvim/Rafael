@@ -9,18 +9,24 @@
 
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/t2/5182631-fundo-abstrato-laranja-com-fundo-de-estilo-moderno-onda-gradiente-amarelo-fundo-abstrato-vetor.jpg");
+  background-image: url("https://img.freepik.com/fotos-gratis/remix-de-midia-de-campanha-de-energia-sustentavel-segurando-arvore_53876-104824.jpg?w=1380&t=st=1700776592~exp=1700777192~hmac=425cacbf1998525b27a05d5d89b3ffc8983946e3362db7e135d37658d547199a");
 }
 
 #projeto{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 20vh;
 }
 h1{
   font-size: 50px;
   text-align: center;
-  background-color: rgb(162, 66, 162);
+}
+h2{
+  font-size: 50px;
+  text-align: center;
+  background-color: #F1C40F;    
+  
 }
 p {
   font-size: 22px;
@@ -38,7 +44,7 @@ p {
   justify-content: center;
 }
 #objetivo7{
-    align-items: center;
+    align-items: left;
     display: flex;
     flex-direction: column;
     justify-content: center;
